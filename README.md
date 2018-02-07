@@ -2,15 +2,21 @@
 
 خواهشمند است لینک‌های **ایرانی** درزمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
 
-این دو لیست خوب را هم ببینید:
+لیست‌های خوب زیر را هم ببینید:
 
 [github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)
 
 [github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
 
+[https://github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)
+
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [پایتون](#پایتون-python)
   * [جاوااسکریپت](#جاواسکریپت-javascript)
+  * [Angular](#angular)
+  * [Angular 1.x](#angular-1x)
+  * [React](#react)
+  * [Vue.js](#vuejs)
   * [پی اچ پی](#پی-اچ-پی-php)
   * [روبی](#روبی-ruby)
   * [جاوا](#جاوا-java)
@@ -18,12 +24,14 @@
   * [اندروید](#اندروید-android)
   * [سی پلاس پلاس](#سی-پلاس-پلاس-c)
   * [سی شارپ](#سی-شارپ-c)
+  * [لاتک](#لاتک-latex)
   * [گنو/لینوکس](#گنولینوکس-gnulinux)
   * [فونت](#فونت)
   * [قالب](#قالب)
   * [گروه‌ها](#گروهها)
   * [آموزشی](#آموزشی)
   * [ادیتور](#ادیتور)
+  * [سرویس و ابزار](#سرویس-و-ابزار)
   * [سایر](#سایر)
 
 ## پایتون Python
@@ -50,32 +58,31 @@
 * [ladybug-dynamo - لیدی‌باگ برای داینامو](https://github.com/ladybug-analysis-tools/ladybug-dynamo)
 * [hydra-grasshopper - هیدار برای گرس هاپر](https://github.com/HydraShare/hydra-grasshopper)
 * [fonttools - کتابخانه ای برای ویرایش فونت ها در پایتون](https://github.com/behdad/fonttools)
+* [URL-Status - مشخص کننده وضعیت HTTP لینک ها](https://GitHub.com/AliBahaari/URL-Status)
 
 ## جاواسکریپت Javascript
 
+* [Tedjs - فریم ورک کتابخانه گرا برای ایجاد DOM ها](https://github.com/AML-Project/tedjs)
+* [tedjs.aml - کتابخانه برای تدجی اس که عملکردی شبیه به انگولار دارد](https://github.com/AML-Project/tedjs.aml.std)
 * [persian.js - کتابخانه‌ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
 * [rial.js - کتابخانه‌ای برای فرمت نرخ و پول در جاوااسکریپت](https://github.com/habibpour/rial.js)
 * [sentence-info - نمایش اطلاعات نگارشی جمله فارسی](https://github.com/nainemom/sentence-info)
+* [Browser computing unleashed](https://github.com/keyvank/pooljs)
 * [کتابخانه تصحیح ورود عدد فارسی در جاوااسکریپت jquery](https://github.com/arashmilani/PersianDocumentNumberInputFix)
 * [tmTheme-Editor - ویرایشگر طرح رنگ برای editorها](http://tmtheme-editor.herokuapp.com/)
 * [PersianOcr - تشخیص کامپیوتری متن‌های نوشته‌شده به زبان فارسی](https://github.com/reza1615/PersianOcr)
 * [simple-html5-game - یک بازی ساده HTML5](https://github.com/habibpour/simple-html5-game)
 * [Persian-Calendar-for-Gnome-Shell - تاریخ/تقویم فارسی برای گنوم](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
 * [SaaghiBot - بات اشعار خیام برای تلگرام](https://github.com/mehdisadeghi/SaaghiBot)
-* [angular-persian - ابزارهای فارسی برای آنگولار](https://github.com/mohebifar/angular-persian)
 * [lebab - تبدیل کد ES5 به ES6](https://github.com/mohebifar/lebab)
 * [PersianDate - سیستم parsing, validating, manipulating و formatting تاریخ فارسی](https://github.com/babakhani/PersianDate)
 * [pwt.datepicker - ابزار انتخاب‌گر تاریخ](https://github.com/babakhani/pwt.datepicker)
-* [Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار](https://github.com/AminRahimi/angular-bootstrap-persian-datepicker)
 * [Twitter Bootstrap Jalali Datepicker - تقویم شمسی برای توییتر بوت استرپ](https://github.com/mousavian/bootstrap-jalali-datepicker)
 * [moratab - تسهیل ویرایش متون markdown](https://github.com/sobhe/moratab)
 * [moujez - خلاصه‌سازی متن](https://github.com/kharazi/moujez)
 * [nbpersian - کتاب Node.js برای مبتدی‌ها](https://github.com/imasood/nbpersian)
 * [chemozart - مدل‌ساز و ویرایشگر سه بعدی مولکولی مبتنی بر وب](https://github.com/mohebifar/chemozart)
 * [telegram-github-search-bot - بات جستجوی گیت‌هاب برای تلگرام](https://github.com/mamal72/telegram-github-search-bot)
-* [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
-* [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
-* [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
 * [electron-jalali-calendar - منوبار تقویم جلالی ساخته‌شده با Electron و React](https://github.com/mamal72/electron-jalali-calendar)
 * [jalaali-js - تبدیل تاریخ شمسی به میلادی و بالعکس](https://github.com/jalaali/jalaali-js)
 * [Iran - Administrative divisions of Iran in json and xml formats - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال](https://github.com/arastu/iran)
@@ -84,6 +91,23 @@
 * [Virastar - نوشته‌های فارسی شما را ویرایش می‌کند](https://github.com/juvee/virastar/)
 * [fullcalendar - تقویم تمام صفحه برای مدیریت رویداده‌ها با کشیدن و رهاکردن](https://github.com/ehsandanesh/fullcalendar/)
 * [Pol - به اشتراک گذاری قسمت‌های مهم متن وبلاگ در شبکه‌های اجتماعی](https://github.com/ikacc/pol/)
+* [IRCheck - اعتبار سنجی برخی داده های مربوط به ایران همچون شماره تلفن](https://github.com/DevRoomOrg/ircheck)
+
+## Angular
+* [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
+* [angular2-persian-utils - مجموعه‌ای از سرویس‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-utils)
+
+## Angular 1.x
+* [angular-persian - ابزارهای فارسی برای آنگولار](https://github.com/mohebifar/angular-persian)
+* [Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار](https://github.com/AminRahimi/angular-bootstrap-persian-datepicker)
+
+## React
+* [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
+* [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
+* [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
+
+## Vue.js
+* [vue2-persian-datepicker - افزونه انتخاب تاریخ جلالی برای Vue.js](https://dyonir.github.io/vue2-persian-datepicker/)
 
 ## پی اچ پی PHP
 
@@ -94,7 +118,9 @@
 * [پکیج کار با درگاههای بانکی](https://github.com/PoolPort/PoolPort)
 * [popcorn - یک API برای دریافت اطلاعات فیلم و سریال](https://github.com/iazami/popcorn)
 * [Widgetify - پکیج ایجاد ویجت یا ابزارک در لاراول](https://github.com/morilog/widgetify)
+* [Laravel Widgetize - پکیج ایجاد ویجت یا ابزارک در لاراول](https://github.com/imanghafoori1/laravel-widgetize)
 * [Flexible Reposiotry - پکیح ایجاد و افزودن لایه ریپازیتوری به اپلیکیشن‌های لاراولی ](https://github.com/morilog/flexible-repository)
+* [simple-date-bundle - تقویم شمسی در Symfony2](https://github.com/msajadi824/simple-date-bundle)
 
 ## روبی Ruby
 
@@ -108,6 +134,7 @@
 * [GraphLab - گرافلب شریف - استودیو تئوری گراف](https://github.com/azinazadi/GraphLab)
 * [JalaliDatePicker - JalaliDatePicker is a Java library that provides a GUI for selecting a Jalali date.](https://github.com/MasoodFallahpoor/JalaliDatePicker)
 * [Demolisher - برتامه‌ای تحت خط فرمان برای پاک کردن فایل های با نام مشخص از یک پوشه و تمام زیر پوشه های آن](https://github.com/MasoodFallahpoor/Demolisher)
+* [persian-date-time - کتابخانه گاه‌شماره پارسی](https://github.com/mfathi91/persian-date-time)
 
 ## گو GO
 
@@ -123,6 +150,9 @@
 * [SunDatePicker - کتابخانه انتخاب‌گر تاریخ فارسی](https://github.com/alirezaafkar/SunDatePicker)
 * [Persian poem application - مجموعهٔ شعر فارسی](https://github.com/NileGroup/Meikade)
 * [farsitel - فارسیتل - اندروید فارسی](https://github.com/farsitel/)
+* [PersianCalendarView - کتابخانه تقویم فارسی اندروید](https://github.com/Roojin/persian-calendar-view)
+* [generator-helma-mvp - جنریتور اندروید متن‌باز حِلما](https://github.com/abbas-oveissi/generator-helma-mvp)
+
 
 ## سی پلاس پلاس C++
 
@@ -149,6 +179,9 @@
 * [binominor - بینومینال - گسترش دهنده بسته نیوتونی](https://github.com/pmkary/binominor)
 * [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
 * [Bois - Binary Object Serializer تبدیل آبجکت ها به باینری فشرده](https://github.com/salarcode/Bois)
+
+## لاتک latex
+* [tehran-thesis - قالب پایان‌نامهٔ دانشگاه تهران](https://github.com/sinamomken/tehran-thesis)
 
 ## آبجکتیو-سی Objective-C
 
@@ -202,13 +235,15 @@
 * [font-farbod - فونت فربد](https://github.com/font-store/font-farbod)
 * [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی](https://github.com/ikacc/gorbeh/)
 
+
 ## قالب
 
 * [bootstrap-rtl - قالب راست به چپ bootstrap 3](https://github.com/morteza/bootstrap-rtl)
 * [Bootstrap4-RTL - قالب راست به چپ bootstrap 4](https://github.com/mmdsharifi/Bootstrap4-RTL)
-* [thewhite - قالب ساده وردپرس](https://github.com/ysarbabi/thewhite)
+* [thewhite - قالب سفید](https://github.com/TheYahya/thewhite)
 * [Raha - قالب آزاد وبلاگی وردپرس](https://github.com/poriyaMH/Raha)
 * [Joqd - وب فریم‌ورک متریال دیزاین](https://github.com/ikacc/joqd/)
+* [Jikan CSS Framework - فریمورک سمت کاربر ژیکان](https://GitHub.com/JikanCSS)
 
 ## گروه‌ها
 
@@ -220,6 +255,7 @@
 * [Node.js Persian Community - جامعه نُد فارسی](http://nodejs.ir/)
 * [IranOnRails - ایران آن ریلز](http://iranonrails.ir/)
 * [Laratalks - جامعه لاراول ایران](http://laratalks.com/)
+* [Live Streaming Community - انجمن لایو استریمینگ ایران](http://community.lahzenegar.com/)
 
 ## آموزشی
 
@@ -233,6 +269,7 @@
 * [user-guide - کتاب هیت‌استودیو](https://github.com/karyfoundation/heatstudio-userguide)
 * [Python Meta Link - لیستی از منابع (فارسی) پایتون](https://docs.google.com/document/d/1xsKUhp_8-LHZQi6jwmpDeRHWpsA-mE8DRzrtCfedCDI/edit?usp=sharing)
 * [توضیحات فارسی Fisherman - افزونه‌ای برای fish](https://github.com/fisherman/fisherman/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
+* [Mobile UX Checklist - چک لیست تجربه کاربری موبایل](https://github.com/parhamb/uxchecklist)
 
 ## ادیتور
 
@@ -241,12 +278,17 @@
 * [مارک-داون راست چین](https://github.com/dariubs/rtlmd)
 * [moratab - مرتب، ویرایشگر مارک‌داون فارسی](https://github.com/sobhe/moratab)
 
+## سرویس و ابزار
+* [FOD (Freedom of Developers) - پراکسی سرور رایگان برای دور زدن تحریم سایت‌های مرتبط با توسعه نرم‌افزار](https://github.com/backtory/fod)
+
 ## سایر
 
 * [persian-words-frequency - مجموعه ای از فهرست نرخ تکرار واژه ها در متن فارسی](https://github.com/behnam/persian-words-frequency)
 * [khayyam - مجموعه رباعیات خیام در فرمت متنی yaml](https://github.com/mehdisadeghi/khayyam)
+* [Iran's constitution - متن قانون اساسی ایران در فرمت YAML](https://github.com/mehdisadeghi/iranconstitution)
 * [StateCityZone - فهرست اسامی استان/شهر ایران به فرمت sql](https://github.com/miladr/StateCityZone)
 * [persian-stopwords - لیست کلمات ایست فارسی](https://github.com/kharazi/persian-stopwords)
+* [Persian Stopwords collection - مجموعه فهرست‌های کلمات ایست فارسی](https://github.com/ziaa/Persian-stopwords-collection)
 * [marhale3.github.io - پروجکت اویلر فارسی](https://github.com/marhale3/marhale3.github.io)
 * [rangebrand.ir - کد رنگ‌های رسمی برند‌های مطرح در ایران](https://github.com/IKAcc/RangeBrand)
 * [iran-cities - استان‌های ایران به‌صورت تفکیک‌شده در قالب جی‌سان](https://github.com/sijad/iran-cities)
@@ -257,6 +299,10 @@
 * [محتوای ساختگی به زبان فارسی برای وردپرس](https://github.com/iazami/persian-dummy-content)
 * [tehran-map - نقشه تهران به صورت برداری برای محلات مختلف](https://github.com/mehdimeskin/tehran-map)
 * [moviesapi - وب‌سرویس فیلم‌ها](http://moviesapi.ir)
+* [mira - میرا، ایجاد سایت‌های استاتیک](https://github.com/kiamazi/mira)
+* [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
+* [Quiz Bot - ربات تلگرامی ساخت آزمون](https://github.com/mort3za/quizbot)
+
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
